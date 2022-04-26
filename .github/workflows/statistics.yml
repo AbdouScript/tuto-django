@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
           wc -l ./mysite/mysite/*.py
           wc -l ./mysite/polls/*.py
-          wc -l ./mysite/polls/templates/polls/*.html 
+          # wc -l ./mysite/polls/templates/polls/*.html
